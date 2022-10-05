@@ -24,11 +24,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285779150501'] //ur owner number
-global.ownername = "HanzOfc"
+global.owner = ['6282223011829'] //ur owner number
+global.ownername = "AlganzOfc"
 global.ytname = "YT:RANGGA BOTZ OFFICIAL " //ur yt chanel name
 global.socialm = "GitHub: XiaomiBOT" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.location = "Indonesia, Surabaya, Jawa timur" //ur location
 
 //bot bombdy
 global.botname = "XiaomiBotz" //ur bot name
@@ -39,7 +39,7 @@ global.author = "XiaomiBotz"
 global.themeemoji = "📀"
 global.reactmoji = "🗿"
 global.ownertag = ['HanzOfc'] //ur owner tag
-global.ownernummenu = ['6285779150501'] //ur owner number in menu and all
+global.ownernummenu = ['6282223011829'] //ur owner number in menu and all
 global.watermark = "XiaomiBotz" //ur watermark
 global.botscript = "https://youtu.be/uYCHtg0sUkE"
 global.linkz1 = "https://youtu.be/sRVKK2CxmjA"
