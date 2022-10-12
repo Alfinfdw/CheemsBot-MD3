@@ -31,16 +31,16 @@ global.socialm = "GitHub: XiaomiBOT" //ur github or insta name
 global.location = "Indonesia, Surabaya, Jawa timur" //ur location
 
 //bot bombdy
-global.botname = "XiaomiBotz" //ur bot name
+global.botname = "NiluhBotz" //ur bot name
 global.websitex = "https://youtube.com/channel/UCkiB1g5qA7xtd7AlXd46vcw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "XiaomiBotz"
+global.author = "NiluhBotz"
 global.themeemoji = "📀"
 global.reactmoji = "🗿"
-global.ownertag = ['HanzOfc'] //ur owner tag
-global.ownernummenu = ['6282223011829'] //ur owner number in menu and all
-global.watermark = "XiaomiBotz" //ur watermark
+global.ownertag = ['ALOfc'] //ur owner tag
+global.ownernummenu = ['4915256954581'] //ur owner number in menu and all
+global.watermark = "NiluhBotz" //ur watermark
 global.botscript = "https://youtu.be/uYCHtg0sUkE"
 global.linkz1 = "https://youtu.be/sRVKK2CxmjA"
 global.linkz2 = "https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM"
